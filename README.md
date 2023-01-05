@@ -12,3 +12,7 @@ Probar las siguientes hipótesis:
 2. El estado civil de un cliente puede influenciar el tiempo de pago de un préstamo. Las personas casadas podrían generar más gastos que una persona soltera y por tanto incumplirían el pago oportuno de un préstamo.
 3. El nivel de ingresos de un cliente puede afectar el pago de un préstamo a tiempo. Aquellos clientes que ganan más tienen mejores posibilidades y recursos para pagar un préstamo que clientes con un sueldo bajo.
 4. El reembolso del préstamo a tiempo puede estar afectado por los diferentes propósitos que tiene un préstamo. Los diferentes propósitos de un préstamo pueden afectar la demora en el pago de un préstamo, los clientes que buscan invertir en bienes raíces pueden requerir más tiempo para terminar el pago de un préstamo.
+
+### Librerías Utilizadas
+
+Pandas
